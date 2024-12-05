@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borfotina_Tudor_Lab10", "Borfotina_Tudor_Lab10.csproj", "{1071971C-EBE6-4652-B493-91EE44399749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPCClient", "..\gRPCClient\gRPCClient.csproj", "{51F9E03E-C7D9-4578-80F9-F4525BDBACAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1071971C-EBE6-4652-B493-91EE44399749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1071971C-EBE6-4652-B493-91EE44399749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1071971C-EBE6-4652-B493-91EE44399749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1071971C-EBE6-4652-B493-91EE44399749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F9E03E-C7D9-4578-80F9-F4525BDBACAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F9E03E-C7D9-4578-80F9-F4525BDBACAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F9E03E-C7D9-4578-80F9-F4525BDBACAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F9E03E-C7D9-4578-80F9-F4525BDBACAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
